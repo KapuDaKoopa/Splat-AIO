@@ -3,8 +3,11 @@ Reached this page by mistake? [Click here](https://github.com/MCMiners9/Splat-AI
 
 Nothing to see here....Literally
 
-MCMiners9's [Email](mailto:mcminers9@gmail.com): mcminers9@gmail.com
-MCMiners9's [Webpage](http://mcminers9site.weebly.com): mcminers9site.weebly.com
+MCMiners9's Email: [mcminers9@gmail.com](mailto:mcminers9@gmail.com)
+
+Deck of Noobs's Email: [mewtwoconfirmed@gmail.com](mailto:mewtwoconfirmed@gmail.com)
+
+MCMiners9's Wepage: [mcminers9site.weebly.com](http://mcminers9site.weebly.com)
 
 
 Goodbye!

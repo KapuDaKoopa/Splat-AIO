@@ -23,4 +23,6 @@ Example: 192.168.1.114\n""")
 
 execfile("./Resources/setup/update_beta.py")
 
+subprocess.call("./Resources/run/main/welcome.vbs")
+
 execfile("./Resources/run/main/menu.py")
